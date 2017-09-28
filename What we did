@@ -1,1 +1,5 @@
 Delete Page 2, and then save the file as a CSV
+
+Missingno couldn't detect the missing columns. The issue is 0's were still treated as numbers. So to fix this we replaced 0's with NaN values. Likewise for strings of value "N".
+
+We then drop all columns where there are < 7000 non-null entries. We thought that 7000 entries (half the dataset) was far too much to impute. 

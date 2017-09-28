@@ -5,3 +5,5 @@ Missingno couldn't detect the missing columns. The issue is 0's were still treat
 We then drop all columns where there are < 7000 non-null entries. We thought that 6000 entries (almost half the dataset) was far too much to impute. 
 
 We also removed all rows that did not have values for 40 of the remaining 72 columns. We thought that imputing this much data would not be a good indicator of entire model. 
+
+We are thinking of imputing with the average value all columns with a few elements missing. If there are alot of rows missing 

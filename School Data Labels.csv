@@ -1,0 +1,68 @@
+STATE,State Identification Number
+NAME,School System Name
+CONUM,ANSI State and County Code
+CBSA,Core-Based Statistical Area
+SCHLEV,School Level Code
+V33,Fall Membership
+TOTALREV,TOTAL ELEMENTARY-SECONDARY REVENUE
+TFEDREV,TOTAL ELEMENTARY-SECONDARY REVENUE
+C14,Federal revenue through the state - Title I
+C15,Federal revenue through the state - Children with disabilities - IDEA
+C16,"Federal revenue through the state - Math, science, and teacher quality"
+C20,Federal revenue through the state - All other
+TSTREV,Total Revenue from State Sources
+C01,General formula assistance
+C10,School lunch programs
+C13,All other revenues from state sources
+TLOCREV,Total Revenue from Local Sources
+T06,Property taxes
+D11,Revenue from other school systems
+A09,School lunch revenues
+A13,District activity receipts
+U22,Interest earnings
+U97,Miscellaneous other local revenues
+TOTALEXP,TOTAL ELEMENTARY-SECONDARY EXPENDITURE
+TCURELSC,TOTAL CURRENT SPENDING FOR ELEMENTARY-SECONDARY PROGRAMS
+TCURINST,TOTAL CURRENT SPENDING FOR INSTRUCTION
+E13,Current operation expenditure - Instruction 
+TCURSSVC,TOTAL CURRENT SPENDING FOR SUPPORT SERVICES
+E13,Current operation expenditure - Instruction
+E07,Current operation expenditure - Instructional staff support
+E08,Current operation expenditure - General administration
+E09,Current operation expenditure - School administration
+V40,Current operation expenditure - Operation and maintenance of plant
+V45,Current operation expenditure - Student transportation
+V90,Current operation expenditure - Business/central/other support services
+TCUROTH,TOTAL CURRENT SPENDING FOR OTHER ELEMENTARY-SECONDARY PROGRAMS
+E11,Current operation expenditure - Food services
+NONELSEC,TOTAL CURRENT SPENDING FOR NONELEMENTARY-SECONDARY PROGRAMS
+TCAPOUT,TOTAL CAPITAL OUTLAY EXPENDITURE
+F12,Construction
+K09,Instructional equipment
+K10,Other equipment
+Q11,Payments to other school systems
+I86,Interest on school system debt
+Z32,Total salaries and wages
+Z33,Total salaries and wages - Instruction
+V11,Total salaries and wages - Pupil support
+V13,Total salaries and wages - Instructional staff support
+V15,Total salaries and wages - General administration
+V17,Total salaries and wages - School administration
+V21,Total salaries and wages - Operation and maintenance of plant
+V23,Total salaries and wages - Student transportation 
+V37,Total salaries and wages - Business/central/other support services
+V29,Total salaries and wages - Food services
+Z34,Total employee benefit payments
+V10,Total employee benefit payments - Instruction
+V12,Total employee benefit payments - Pupil support
+V14,Total employee benefit payments - Instructional staff
+V16,Total employee benefit payments - General administration
+V18,Total employee benefit payments - School administration
+V22,Total employee benefit payments - Operation and maintenance of plant
+V24,Total employee benefit payments - Student transportation
+V38,Total employee benefit payments - Business/central/other support services
+V30,Total employee benefit payments - Food services
+_19H,Long-term debt outstanding at beginning of the fiscal year
+_31F,Long-term debt retired during the fiscal year
+_41F,Long-term debt outstanding at end of fiscal year
+W61,"Cash and deposits, held at end of fiscal year - Other funds"
